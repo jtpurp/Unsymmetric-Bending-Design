@@ -1,8 +1,8 @@
 # Unsymmetric-Bending-Design-Application
-Purpose
+Purpose \n
 Calculates maximum stress in beam experiencing unsymmetric bending
 
-Assumptions
+Assumptions \n
 1.) Simply supported beam
 2.) Loading:
           Distributed load with the same (w1=w2) or different magnitudes (w1≠w2) at starting (z1) and ending (z2) positions measured from the left along the span of the beam
