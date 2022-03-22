@@ -1,4 +1,4 @@
-# Unsymmetric-Bending-Design-Application
+# Unsymmetric-Bending-Design
 Purpose
 
 Calculates maximum stress in beam experiencing unsymmetric bending
