@@ -1,4 +1,7 @@
 # Unsymmetric-Bending-Design
+
+DOubly, Singly, & Un
+
 Purpose
 
 Calculates maximum stress in beam experiencing unsymmetric bending
