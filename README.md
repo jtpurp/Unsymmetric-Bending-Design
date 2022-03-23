@@ -12,9 +12,9 @@ Assumptions
 
 2. Loading:
 
-      Distributed load with the same (w1=w2) or different magnitudes (w1≠w2) at starting (z1) and ending (z2) positions measured from the left along the span of the beam
+      -Distributed load with the same (w1=w2) or different magnitudes (w1≠w2) at starting (z1) and ending (z2) positions measured from the left along the span of the beam
           
-      Point load with position (z) measured from the left along span of the beam
+      -Point load with position (z) measured from the left along span of the beam
           
 3. Select origin at any location on cross-section for determining location of centroid
 
@@ -37,9 +37,9 @@ Assumptions
 
 2. Loading:
 
-      Distributed load with the same (w1=w2) or different magnitudes (w1≠w2) at starting (z1) and ending (z2) positions measured from the left along the span of the beam
+      -Distributed load with the same (w1=w2) or different magnitudes (w1≠w2) at starting (z1) and ending (z2) positions measured from the left along the span of the beam
           
-      Point load with position (z) measured from the left along span of the beam
+      -Point load with position (z) measured from the left along span of the beam
           
 3. Select origin at any location on cross-section for determining location of centroid
 
