@@ -25,6 +25,7 @@ Assumptions
 6. Calculator able to consider up to 4 rectangular segments of cross-section
 
 
+
 Prefabricated Cross-Sections
 
 Purpose
