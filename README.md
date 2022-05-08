@@ -2,11 +2,11 @@
 
 Doubly, Singly, & Unsymmetric Cross-Sections
 
-Purpose
+Purpose:
 
 Calculates maximum stress in beam experiencing unsymmetric bending
 
-Assumptions
+Assumptions:
 
 1. Simply supported beam
 
@@ -26,11 +26,11 @@ Assumptions
 
 Prefabricated Cross-Sections
 
-Purpose
+Purpose:
 
 Calculates maximum stress in beam experiencing unsymmetric bending
 
-Assumptions
+Assumptions:
 
 1. Simply supported beam
 
